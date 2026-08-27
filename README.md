@@ -13,7 +13,9 @@ A concise , descriptive name for the dashboard.Example :Interns Analytics : An i
    
 List the key technologies used to build the dashboard.
 
-Example :The dashboard was build using to build the dashboards.📊 Power BI Desktop – Dashboard creation and data visualization
+Example :The dashboard was build using to build the dashboards.
+
+📊 Power BI Desktop – Dashboard creation and data visualization
 📁 Excel – Data source and data preparation
 🔄 Power Query – Data cleaning and transformation
 🧮 DAX – Calculated measures and KPIs
