@@ -6,8 +6,8 @@ A concise , descriptive name for the dashboard.Example :Interns Analytics : An i
 
 2.  Short Description / Purpose
    
-1-2 sentences explaining what the dashboard does and why it exists.
-Example :The Interns Dashboard provides a clear and interactive view of internship-related data. It helps organizations track interns, understand department-wise distribution and gain useful insights for better internship management.
+    1-2 sentences explaining what the dashboard does and why it exists.
+    Example :The Interns Dashboard provides a clear and interactive view of internship-related data. It helps organizations track interns, understand department-      wise distribution and gain useful insights for better internship management.
 
 3.  Tech Stack
    
